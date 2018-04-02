@@ -1,106 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="997496e6-9312-404f-b468-2a899f03b279" name="Default" comment="First Day">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/30daysJs.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/index-bug.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/boom.wav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/clap.wav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/hihat.wav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/kick.wav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/openhat.wav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/ride.wav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/snare.wav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/tink.wav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/sounds/tom.wav" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/03 - CSS Variables/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/03 - CSS Variables/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/04 - Array Cardio Day 1/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/04 - Array Cardio Day 1/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05 - Flex Panel Gallery/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05 - Flex Panel Gallery/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/06 - Type Ahead/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/06 - Type Ahead/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/06 - Type Ahead/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/07 - Array Cardio Day 2/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/07 - Array Cardio Day 2/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08 - Fun with HTML5 Canvas/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/09 - Dev Tools Domination/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/09 - Dev Tools Domination/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10 - Hold Shift and Check Checkboxes/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11 - Custom Video Player/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11 - Custom Video Player/scripts-FINISHED.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11 - Custom Video Player/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/12 - Key Sequence Detection/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/12 - Key Sequence Detection/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/13 - Slide in on Scroll/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/13 - Slide in on Scroll/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/14 - JavaScript References VS Copying/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/14 - JavaScript References VS Copying/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/15 - LocalStorage/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/15 - LocalStorage/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/15 - LocalStorage/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/16 - Mouse Move Shadow/index-finished.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/16 - Mouse Move Shadow/index-start.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/17 - Sort Without Articles/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/17 - Sort Without Articles/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/18 - Adding Up Times with Reduce/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/18 - Adding Up Times with Reduce/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/19 - Webcam Fun/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/19 - Webcam Fun/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/19 - Webcam Fun/scripts-FINISHED.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/19 - Webcam Fun/scripts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/19 - Webcam Fun/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/20 - Speech Detection/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/20 - Speech Detection/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/20 - Speech Detection/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/21 - Geolocation/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/21 - Geolocation/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/21 - Geolocation/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/22 - Follow Along Link Highlighter/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/22 - Follow Along Link Highlighter/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/22 - Follow Along Link Highlighter/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/23 - Speech Synthesis/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/23 - Speech Synthesis/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/23 - Speech Synthesis/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/24 - Sticky Nav/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/24 - Sticky Nav/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/24 - Sticky Nav/style-FINISHED.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/24 - Sticky Nav/style-START.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/25 - Event Capture, Propagation, Bubbling and Once/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/25 - Event Capture, Propagation, Bubbling and Once/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/26 - Stripe Follow Along Nav/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/26 - Stripe Follow Along Nav/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/27 - Click and Drag/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/27 - Click and Drag/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/27 - Click and Drag/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/28 - Video Speed Controller/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/28 - Video Speed Controller/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/28 - Video Speed Controller/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/29 - Countdown Timer/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/29 - Countdown Timer/scripts-FINISHED.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/29 - Countdown Timer/scripts-START.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/29 - Countdown Timer/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/30 - Whack A Mole/dirt.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/30 - Whack A Mole/index-FINISHED.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/30 - Whack A Mole/index-START.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/30 - Whack A Mole/mole.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/30 - Whack A Mole/style.css" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/crap.txt" afterPath="$PROJECT_DIR$/11 - Custom Video Player/scripts.js" />
+    <list default="true" id="997496e6-9312-404f-b468-2a899f03b279" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -113,57 +18,95 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index-START.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index-START.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-bug.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index-bug.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="55" column="49" lean-forward="true" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
-              <folding>
-                <element signature="e#274#433#0" expanded="true" />
-                <element signature="e#466#1018#0" expanded="true" />
-                <element signature="e#1319#1392#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="11" lean-forward="false" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.7472859">
+      <split-first>
+        <splitter split-orientation="horizontal" split-proportion="0.5">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="357">
+                      <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/css.css">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="799">
+                      <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="306">
+                      <caret line="18" selection-start-line="18" selection-end-line="18" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name="css.css" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/css.css">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="588">
+                      <caret line="51" selection-start-line="51" selection-end-line="51" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <splitter split-orientation="vertical" split-proportion="0.5609756">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="229">
+                      <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name="index-FINISHED.html" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="136">
+                      <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+                      <folding>
+                        <element signature="e#1690#2209#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -180,6 +123,9 @@
       <list>
         <option value="$PROJECT_DIR$/01 - JavaScript Drum Kit/index-START.html" />
         <option value="$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js" />
+        <option value="$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html" />
+        <option value="$PROJECT_DIR$/02 - JS and CSS Clock/script.js" />
+        <option value="$PROJECT_DIR$/02 - JS and CSS Clock/css.css" />
       </list>
     </option>
   </component>
@@ -195,11 +141,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="497" />
-    <option name="y" value="92" />
-    <option name="width" value="890" />
-    <option name="height" value="725" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -224,22 +170,11 @@
     </entry>
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,7 +185,7 @@
             <path>
               <item name="30daysJs" type="b2602c69:ProjectViewProjectNode" />
               <item name="30daysJs" type="462c0819:PsiDirectoryNode" />
-              <item name="01 - JavaScript Drum Kit" type="462c0819:PsiDirectoryNode" />
+              <item name="02 - JS and CSS Clock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,22 +194,26 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="SearchEverywhereHistoryKey" value="plugin&#9;ACTION&#9;WelcomeScreen.Plugins&#10;jslint&#9;null&#9;null&#10;eslint&#9;null&#9;null&#10;javascript version&#9;null&#9;null&#10;githu&#9;null&#9;null" />
-    <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.detected.package.standard" value="true" />
-    <property name="node.js.selected.package.standard" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="SearchEverywhereHistoryKey" value="plugin&#9;ACTION&#9;WelcomeScreen.Plugins&#10;jslint&#9;null&#9;null&#10;eslint&#9;null&#9;null&#10;javascript version&#9;null&#9;null&#10;githu&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="" />
-    <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
     <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -288,8 +227,13 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="RunManager">
+    <configuration name="index-START.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/30daysJs/02 - JS and CSS Clock/index-START.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index-START.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -302,34 +246,41 @@
       <option name="presentableId" value="Default" />
       <updated>1522042723404</updated>
       <workItem from="1522042725012" duration="9076000" />
-      <workItem from="1522124050453" duration="748000" />
+      <workItem from="1522124050453" duration="849000" />
+      <workItem from="1522223177905" duration="6000" />
+      <workItem from="1522223228237" duration="63000" />
+      <workItem from="1522223375808" duration="1068000" />
+      <workItem from="1522240377757" duration="179000" />
+      <workItem from="1522247590697" duration="1028000" />
+      <workItem from="1522585160048" duration="6345000" />
+      <workItem from="1522642290401" duration="827000" />
+      <workItem from="1522652749593" duration="1504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9824000" />
+    <option name="totallyTimeSpent" value="20945000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="497" y="92" width="890" height="725" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2734742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24969843" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32791328" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3292683" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977476" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,83 +317,121 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Day" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Day" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <MESSAGE value="Second Day plus twelve o clock rerotation fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Day plus twelve o clock rerotation fix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index-START.html">
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="357">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index-bug.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="11" lean-forward="false" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js">
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
-          <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
           <folding>
-            <element signature="e#274#433#0" expanded="true" />
-            <element signature="e#466#1018#0" expanded="true" />
-            <element signature="e#1319#1392#0" expanded="true" />
+            <element signature="e#1690#2209#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/style.css">
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="11" lean-forward="false" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="357">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index-FINISHED.html" />
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index-START.html">
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="799">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/index-bug.html">
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js">
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="55" column="49" lean-forward="true" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
+        <state relative-caret-position="1564">
+          <caret line="92" column="29" lean-forward="true" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
           <folding>
-            <element signature="e#274#433#0" expanded="true" />
-            <element signature="e#466#1018#0" expanded="true" />
-            <element signature="e#1319#1392#0" expanded="true" />
+            <element signature="e#1690#2209#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+          <folding>
+            <element signature="e#1690#2209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
         </state>
       </provider>
     </entry>
