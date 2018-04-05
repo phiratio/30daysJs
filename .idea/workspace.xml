@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="997496e6-9312-404f-b468-2a899f03b279" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,95 +16,80 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.7472859">
+    <splitter split-orientation="horizontal" split-proportion="0.5342205">
       <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.5">
-          <split-first>
-            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="357">
-                      <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/css.css">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="799">
-                      <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="306">
-                      <caret line="18" selection-start-line="18" selection-end-line="18" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="css.css" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/css.css">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="588">
-                      <caret line="51" selection-start-line="51" selection-end-line="51" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+                  <folding>
+                    <element signature="e#271#1397#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="phpGrabber.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-1680">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                  <folding>
+                    <element signature="e#1332#1372#0" expanded="true" />
+                    <element signature="e#4244#5232#0" expanded="true" />
+                    <element signature="e#4898#4984#0" expanded="true" />
+                    <element signature="e#5027#5225#0" expanded="true" />
+                    <element signature="e#9339#9775#0" expanded="true" />
+                    <element signature="e#9660#9684#0" expanded="true" />
+                    <element signature="e#10334#10366#0" expanded="true" />
+                    <element signature="e#10659#10691#0" expanded="true" />
+                    <element signature="n#!!block;n#selectItemByValue#0" expanded="true" />
+                    <element signature="n#!!block;n#f#0" expanded="true" />
+                    <element signature="e#11207#11250#0" expanded="true" />
+                    <element signature="n#!!block;n#parte#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="vertical" split-proportion="0.5609756">
-          <split-first>
-            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="index-START.html" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="229">
-                      <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="index-FINISHED.html" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="136">
-                      <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
-                      <folding>
-                        <element signature="e#1690#2209#0" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="phpGrabber.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="527">
+                  <caret line="178" column="34" lean-forward="true" selection-start-line="178" selection-start-column="34" selection-end-line="178" selection-end-column="34" />
+                  <folding>
+                    <element signature="e#1280#1296#0" expanded="true" />
+                    <element signature="e#1332#1372#0" expanded="true" />
+                    <element signature="e#4244#5232#0" expanded="true" />
+                    <element signature="e#6085#6181#0" expanded="true" />
+                    <element signature="e#9660#9684#0" expanded="true" />
+                    <element signature="e#10334#10366#0" expanded="true" />
+                    <element signature="e#10659#10691#0" expanded="true" />
+                    <element signature="n#!!block;n#selectItemByValue#0" expanded="true" />
+                    <element signature="e#10757#10933#0" expanded="true" />
+                    <element signature="n#!!block;n#f#0" expanded="true" />
+                    <element signature="e#11207#11250#0" expanded="true" />
+                    <element signature="n#!!block;n#parte#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
       </split-second>
     </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -124,8 +107,9 @@
         <option value="$PROJECT_DIR$/01 - JavaScript Drum Kit/index-START.html" />
         <option value="$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js" />
         <option value="$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html" />
-        <option value="$PROJECT_DIR$/02 - JS and CSS Clock/script.js" />
         <option value="$PROJECT_DIR$/02 - JS and CSS Clock/css.css" />
+        <option value="$PROJECT_DIR$/02 - JS and CSS Clock/script.js" />
+        <option value="$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js" />
       </list>
     </option>
   </component>
@@ -186,6 +170,11 @@
               <item name="30daysJs" type="b2602c69:ProjectViewProjectNode" />
               <item name="30daysJs" type="462c0819:PsiDirectoryNode" />
               <item name="02 - JS and CSS Clock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="30daysJs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="30daysJs" type="462c0819:PsiDirectoryNode" />
+              <item name="31 - phpGrabber" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,16 +244,19 @@
       <workItem from="1522585160048" duration="6345000" />
       <workItem from="1522642290401" duration="827000" />
       <workItem from="1522652749593" duration="1504000" />
+      <workItem from="1522866633316" duration="5116000" />
+      <workItem from="1522945398840" duration="10911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20945000" />
+    <option name="totallyTimeSpent" value="36972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24969843" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24968314" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32791328" />
@@ -320,7 +312,74 @@
     <MESSAGE value="Second Day plus twelve o clock rerotation fix" />
     <option name="LAST_COMMIT_MESSAGE" value="Second Day plus twelve o clock rerotation fix" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#271#1397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="e#1332#1372#0" expanded="true" />
+            <element signature="e#4244#5232#0" expanded="true" />
+            <element signature="e#4898#4984#0" expanded="true" />
+            <element signature="e#5027#5225#0" expanded="true" />
+            <element signature="e#9339#9775#0" expanded="true" />
+            <element signature="e#9660#9684#0" expanded="true" />
+            <element signature="e#10334#10366#0" expanded="true" />
+            <element signature="e#10659#10691#0" expanded="true" />
+            <element signature="n#!!block;n#selectItemByValue#0" expanded="true" />
+            <element signature="n#!!block;n#f#0" expanded="true" />
+            <element signature="e#11207#11250#0" expanded="true" />
+            <element signature="n#!!block;n#parte#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="e#271#1397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -346,9 +405,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1326">
           <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
-          <folding>
-            <element signature="e#1690#2209#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -377,9 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1564">
           <caret line="92" column="29" lean-forward="true" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
-          <folding>
-            <element signature="e#1690#2209#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -406,18 +459,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/index-FINISHED.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="605">
           <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
-          <folding>
-            <element signature="e#1690#2209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -432,6 +475,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <element signature="e#274#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#271#1397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1680">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#1332#1372#0" expanded="true" />
+            <element signature="e#4244#5232#0" expanded="true" />
+            <element signature="e#4898#4984#0" expanded="true" />
+            <element signature="e#5027#5225#0" expanded="true" />
+            <element signature="e#9339#9775#0" expanded="true" />
+            <element signature="e#9660#9684#0" expanded="true" />
+            <element signature="e#10334#10366#0" expanded="true" />
+            <element signature="e#10659#10691#0" expanded="true" />
+            <element signature="n#!!block;n#selectItemByValue#0" expanded="true" />
+            <element signature="n#!!block;n#f#0" expanded="true" />
+            <element signature="e#11207#11250#0" expanded="true" />
+            <element signature="n#!!block;n#parte#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
