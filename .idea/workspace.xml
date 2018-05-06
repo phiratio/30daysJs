@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="997496e6-9312-404f-b468-2a899f03b279" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js" beforeDir="false" afterPath="$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - JS and CSS Clock/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02 - JS and CSS Clock/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,53 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-                  <folding>
-                    <element signature="e#57#1446#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="phpGrabber.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="284">
-                  <caret line="336" selection-start-line="336" selection-end-line="336" />
-                  <folding>
-                    <element signature="e#1113#1222#0" expanded="true" />
-                    <element signature="e#3766#5464#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-                  <folding>
-                    <element signature="e#57#1446#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,9 +47,10 @@
         <option value="$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js" />
         <option value="$PROJECT_DIR$/02 - JS and CSS Clock/index-START.html" />
         <option value="$PROJECT_DIR$/02 - JS and CSS Clock/css.css" />
-        <option value="$PROJECT_DIR$/02 - JS and CSS Clock/script.js" />
         <option value="$PROJECT_DIR$/31 - phpGrabber/eventlistener.js" />
         <option value="$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/02 - JS and CSS Clock/script.js" />
       </list>
     </option>
   </component>
@@ -107,6 +65,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/19 - Webcam Fun/package.json" />
+      <path value="$PROJECT_DIR$/20 - Speech Detection/package.json" />
+      <path value="$PROJECT_DIR$/21 - Geolocation/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -141,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,20 +116,32 @@
             <path>
               <item name="30daysJs" type="b2602c69:ProjectViewProjectNode" />
               <item name="30daysJs" type="462c0819:PsiDirectoryNode" />
+              <item name="01 - JavaScript Drum Kit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="30daysJs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="30daysJs" type="462c0819:PsiDirectoryNode" />
+              <item name="02 - JS and CSS Clock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="30daysJs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="30daysJs" type="462c0819:PsiDirectoryNode" />
               <item name="31 - phpGrabber" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="plugin&#9;ACTION&#9;WelcomeScreen.Plugins&#10;jslint&#9;null&#9;null&#10;eslint&#9;null&#9;null&#10;javascript version&#9;null&#9;null&#10;githu&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="eslint&#9;null&#9;null&#10;line sepa&#9;ACTION&#9;ChangeLineSeparators&#10;line separa&#9;ACTION&#9;ChangeLineSeparators&#10;plugin&#9;ACTION&#9;WelcomeScreen.Plugins&#10;jslint&#9;null&#9;null&#10;javascript version&#9;null&#9;null&#10;githu&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eslintrc" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
@@ -175,12 +151,12 @@
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.eslint" value="C:\Program Files\nodejs\node_modules\eslint" />
     <property name="node.js.selected.package.jscs" value="" />
     <property name="node.js.selected.package.prettier" value="" />
-    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.standard" value="C:\Program Files\nodejs\node_modules\eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -225,6 +201,7 @@
       <workItem from="1523117471040" duration="1169000" />
       <workItem from="1523120656434" duration="52000" />
       <workItem from="1523120751013" duration="1124000" />
+      <workItem from="1525621534293" duration="2819000" />
     </task>
     <task id="LOCAL-00001" summary="side project working funcionality">
       <created>1522960842495</created>
@@ -244,19 +221,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77430000" />
+    <option name="totallyTimeSpent" value="80249000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="32767" y="32767" width="1620" height="920" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24905184" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3107417" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -313,6 +290,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="336" selection-start-line="336" selection-end-line="336" />
+          <folding>
+            <element signature="e#1113#1222#0" expanded="true" />
+            <element signature="e#3766#5464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+          <folding>
+            <element signature="e#57#1446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5712">
@@ -591,24 +589,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/31 - phpGrabber/eventlistener.js" />
-    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-          <folding>
-            <element signature="e#57#1446#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/31 - phpGrabber/phpGrabber.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -617,6 +598,30 @@
             <element signature="e#1113#1222#0" expanded="true" />
             <element signature="e#3766#5464#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - JS and CSS Clock/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+          <folding>
+            <element signature="e#57#1446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 - JavaScript Drum Kit/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,7 @@
-document.addEventListener("DOMContentLoaded", function() {
-    const hoursHand = document.querySelector(".hours-hand");
-    const minutesHand = document.querySelector(".mins-hand");
-    const secondsHand = document.querySelector(".seconds-hand");
+document.addEventListener('DOMContentLoaded', () => {
+    const hoursHand = document.querySelector('.hours-hand');
+    const minutesHand = document.querySelector('.mins-hand');
+    const secondsHand = document.querySelector('.seconds-hand');
 
     function setDate() {
         const now = new Date();
@@ -16,19 +16,18 @@ document.addEventListener("DOMContentLoaded", function() {
         minutesHand.style.transform = `rotate(${minutesInDegrees}deg)`;
         secondsHand.style.transform = `rotate(${secondsInDegrees}deg)`;
 
-        let secondStyle = window.getComputedStyle(secondsHand, null).getPropertyValue('transform');
+        const secondStyle = window.getComputedStyle(secondsHand, null).getPropertyValue('transform');
         if (secondStyle === 'matrix(0.207912, 0.978148, -0.978148, 0.207912, 0, 0)') {
-            secondsHand.style.transition = "all 0s";
-            minutesHand.style.transition = "all 0s";
-            hoursHand.style.transition = "all 0s";
+            secondsHand.style.transition = 'all 0s';
+            minutesHand.style.transition = 'all 0s';
+            hoursHand.style.transition = 'all 0s';
         } else {
             secondsHand.style.removeProperty('transition');
             minutesHand.style.removeProperty('transition');
             hoursHand.style.removeProperty('transition');
-        };
-
+        }
     }
 
-    setInterval(setDate,1000);
+    setInterval(setDate, 1000);
     setDate();
 });
